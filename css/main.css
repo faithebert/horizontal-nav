@@ -10,3 +10,24 @@ html {
   background-color: #dbd6cf;
   line-height: 1.5;
 }
+
+div {
+  background-color: #79756f;
+}
+
+h1, nav {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bevan', serif;
+  color: #fff;
+}
+
+nav {
+  font-family: sans-serif;
+  color: #fff;
+  background-color: #713837;
+  display: inline;
+  list-style-type: none;
+}
