@@ -24,10 +24,12 @@ h1 {
   color: #fff;
 }
 
-nav {
+ol li {
   font-family: sans-serif;
   color: #fff;
   background-color: #713837;
-  display: inline;
   list-style-type: none;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
 }
