@@ -40,5 +40,9 @@ ol li {
 a {
   color: #fff;
   text-decoration: none;
-  background-color: #713837;
+  padding: .6em;
+}
+
+a hover {
+  background-color: #f33;
 }
