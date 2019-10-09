@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -8,7 +9,6 @@ html {
 
 body {
   background-color: #dbd6cf;
-  line-height: 1.5;
   margin: .3em;
 }
 
@@ -16,12 +16,13 @@ header {
   background-color: #79756f;
   border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
-  padding: .6em .5em;
+  padding: .5em;
 }
 
 h1 {
   font-family: Bevan, serif;
   color: #fff;
+  margin: .3em;
 }
 
 h1, nav {
