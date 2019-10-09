@@ -6,12 +6,12 @@ html {
   box-sizing: inherit;
 }
 
-html {
+body {
   background-color: #dbd6cf;
   line-height: 1.5;
 }
 
-div {
+header {
   background-color: #79756f;
   padding: .5em 0;
   border-top: 3px solid #595652;
@@ -28,7 +28,7 @@ h1 {
   color: #fff;
 }
 
-ol li {
+ul li {
   font-family: sans-serif;
   background-color: #713837;
   list-style-type: none;
