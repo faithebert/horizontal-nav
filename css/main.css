@@ -40,9 +40,11 @@ ol li {
 a {
   color: #fff;
   text-decoration: none;
-  padding: .6em;
+  padding: .75em .6em;
 }
 
-a hover {
+a:hover {
   background-color: #f33;
+  border-radius: 4px;
+  padding: .75em;
 }
