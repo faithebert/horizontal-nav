@@ -17,7 +17,6 @@ header {
   padding: .5em 0;
   border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
-
 }
 
 h1, nav {
@@ -25,7 +24,7 @@ h1, nav {
 }
 
 h1 {
-  font-family: 'Bevan', serif;
+  font-family: Bevan, serif;
   color: #fff;
 }
 
